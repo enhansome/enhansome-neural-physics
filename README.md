@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,341 | 🐛 374 | 🌐 Python | 📅 2026-08-14\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,383 | 🐛 375 | 🌐 Python | 📅 2026-08-14\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1698,7 +1698,7 @@ Papers that span multiple physical domains or focus on coupled systems and gener
 
 * **Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications** | ICRA 2023\
   *Jeong Hun Lee, Mike Y. Michelis, Robert K. Katzschmann, Zachary Manchester*\
-  [\[DOI\]](https://doi.org/10.1109/icra48891.2023.10161494) [\[Code\]](https://github.com/RoboticExplorationLab/Aquarium.jl) ⭐ 27 | 🐛 4 | 🌐 Julia | 📅 2026-08-12\
+  [\[DOI\]](https://doi.org/10.1109/icra48891.2023.10161494) [\[Code\]](https://github.com/RoboticExplorationLab/Aquarium.jl) ⭐ 27 | 🐛 4 | 🌐 Julia | 📅 2026-08-14\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Underwater Robot](https://img.shields.io/badge/-Underwater%20Robot-ff7f0e.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
