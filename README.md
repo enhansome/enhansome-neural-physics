@@ -691,7 +691,7 @@ Papers on cloth, garments, and apparel-related dynamics, reconstruction, and ava
 
 * **Neural Garment Dynamics via Manifold-Aware Transformers** | CGF 2024\
   *Peizhuo Li, Tuanfeng Y. Wang, Timur Levent Kesdogan, Duygu Ceylan, et al.*\
-  [\[DOI\]](https://doi.org/10.1111/cgf.15028) [\[Code\]](https://github.com/PeizhuoLi/manifold-aware-transformers) ⭐ 42 | 🐛 3 | 🌐 Python | 📅 2024-05-08\
+  [\[DOI\]](https://doi.org/10.1111/cgf.15028) [\[Code\]](https://github.com/PeizhuoLi/manifold-aware-transformers) ⭐ 43 | 🐛 3 | 🌐 Python | 📅 2024-05-08\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Contact](https://img.shields.io/badge/-Contact-2a9d8f.svg?style=flat-square) ![Avatar](https://img.shields.io/badge/-Avatar-4c78a8.svg?style=flat-square) ![Transformer](https://img.shields.io/badge/-Transformer-bc6c25.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,452 | 🐛 387 | 🌐 Python | 📅 2026-08-17\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,476 | 🐛 389 | 🌐 Python | 📅 2026-08-18\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
