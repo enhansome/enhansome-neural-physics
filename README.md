@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,476 | 🐛 389 | 🌐 Python | 📅 2026-08-18\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,487 | 🐛 387 | 🌐 Python | 📅 2026-08-19\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,218 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-08-06\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,220 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-08-06\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

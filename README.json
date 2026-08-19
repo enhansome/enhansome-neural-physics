@@ -1,18 +1,7 @@
 {
-  "items": [
-    {
-      "description": "Reader-facing tags used in the list for quick scanning and search.",
-      "items": [],
-      "title": "Tag Guide"
-    },
-    {
-      "description": "If you find this repository helpful, please consider citing it!",
-      "items": [],
-      "title": "Citation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:58:58.331Z",
+    "last_updated": "2026-08-19T10:58:35.185Z",
     "original_repository": "awesome-physics/awesome-neural-physics",
     "original_repository_sha": "074c90c3de7dd24c09f18b6ccf80b57c3d84949a",
     "enhanced_repository": "enhansome/enhansome-neural-physics",
