@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,514 | 🐛 389 | 🌐 Python | 📅 2026-08-21\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,517 | 🐛 391 | 🌐 Python | 📅 2026-08-23\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1479,7 +1479,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Dynamic-Resolution Model Learning for Object Pile Manipulation** | RSS 2023\
   *Yixuan Wang, Yunzhu Li, Katherine Driggs-Campbell, Li Fei-Fei, et al.*\
-  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2024-01-29\
+  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2024-01-29\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Robot Control](https://img.shields.io/badge/-Robot%20Control-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1584,14 +1584,14 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Efficient Differentiable Simulation of Articulated Bodies** | ICML 2021\
   *Qiao, Yi-Ling, Liang, Junbang, Koltun, Vladlen, Lin, Ming C.*\
-  [\[Code\]](https://github.com/YilingQiao/diffarticulated) ⭐ 105 | 🐛 1 | 🌐 C | 📅 2021-12-17\
+  [\[Code\]](https://github.com/YilingQiao/diffarticulated) ⭐ 106 | 🐛 1 | 🌐 C | 📅 2021-12-17\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
 
 * **NeuralSim: Augmenting Differentiable Simulators with Neural Networks** | ICRA 2021\
   *Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.*\
-  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,368 | 🐛 12 | 🌐 C++ | 📅 2024-10-18\
+  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,369 | 🐛 12 | 🌐 C++ | 📅 2024-10-18\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
