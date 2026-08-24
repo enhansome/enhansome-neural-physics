@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,522 | 🐛 395 | 🌐 Python | 📅 2026-08-23\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,522 | 🐛 392 | 🌐 Python | 📅 2026-08-24\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1479,7 +1479,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Dynamic-Resolution Model Learning for Object Pile Manipulation** | RSS 2023\
   *Yixuan Wang, Yunzhu Li, Katherine Driggs-Campbell, Li Fei-Fei, et al.*\
-  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 36 | 🐛 1 | 🌐 C++ | 📅 2024-01-29\
+  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 36 | 🐛 0 | 🌐 C++ | 📅 2024-01-29\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Robot Control](https://img.shields.io/badge/-Robot%20Control-8ab17d.svg?style=flat-square)
 
 <br>
