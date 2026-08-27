@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,536 | 🐛 399 | 🌐 Python | 📅 2026-08-26\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,542 | 🐛 410 | 🌐 Python | 📅 2026-08-27\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,223 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2026-08-06\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,224 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1591,7 +1591,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **NeuralSim: Augmenting Differentiable Simulators with Neural Networks** | ICRA 2021\
   *Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.*\
-  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,371 | 🐛 12 | 🌐 C++ | 📅 2024-10-18\
+  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,372 | 🐛 12 | 🌐 C++ | 📅 2024-10-18\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
