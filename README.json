@@ -420,10 +420,10 @@
             "archived": false,
             "id": 970467647,
             "language": "Python",
-            "last_commit": "2026-08-27T11:50:11Z",
+            "last_commit": "2026-08-27T20:36:33Z",
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5542
+            "stars": 5545
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-06T15:04:10Z",
             "owner": "google",
             "repo": "brax",
-            "stars": 3224
+            "stars": 3225
           }
         },
         {
@@ -542,7 +542,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:36.028Z",
+    "last_updated": "2026-08-27T20:44:01.347Z",
     "original_repository_info": {
       "archived": false,
       "id": 818246372,
