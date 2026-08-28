@@ -16,7 +16,8 @@
             "owner": "chenyu-xjtu",
             "repo": "A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "JfanLiu",
             "repo": "AMR_Transformer",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "taoningxiao",
             "repo": "FlowCapX",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "cenyc",
             "repo": "Interactive-Fluid-Modeling",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Pranav-Jain",
             "repo": "Neural-Monte-Carlo-Fluid-Simulation",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "JiaxiongQ",
             "repo": "NeuSmoke",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "19reborn",
             "repo": "PICT_smoke",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "tum-pbs",
             "repo": "SFBC",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "yitongdeng-projects",
             "repo": "learning_vortex_dynamics_code",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2023-12-04T20:34:02Z",
             "owner": "tum-pbs",
             "repo": "SMDP",
-            "stars": 34
-          }
+            "stars": 33
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "tum-pbs",
             "repo": "DMCF",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "byungsook",
             "repo": "neural-flow-style",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "p-holl",
             "repo": "PDE-Control",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "sisl",
             "repo": "deep_flow_control",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "google",
             "repo": "FluidNet",
             "stars": 754
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         }
       ],
       "title": "Fluid (80)"
@@ -247,7 +262,8 @@
             "owner": "realcrane",
             "repo": "Bayesian-Differentiable-Physics-for-Cloth-Digitalization",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "PeizhuoLi",
             "repo": "manifold-aware-transformers",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "vc-bonn",
             "repo": "Physics-guided-Shape-from-Template",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "DrapeTester",
             "repo": "ClothDrapeTester",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         }
       ],
       "title": "Cloth (53)"
@@ -313,7 +332,8 @@
             "owner": "lnumerow-ethz",
             "repo": "VoronoiCellSim",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "hjoonpark",
             "repo": "3d-sim-super-res",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "jiahong-w",
             "repo": "neural-modes",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "liyuesolo",
             "repo": "NeuralMetamaterialNetwork",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "ZhengMianlun",
             "repo": "deep_emulator",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "YilingQiao",
             "repo": "diff_fem",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "yuanming-hu",
             "repo": "ChainQueen",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         }
       ],
       "title": "Softbody (63)"
@@ -420,11 +446,12 @@
             "archived": false,
             "id": 970467647,
             "language": "Python",
-            "last_commit": "2026-08-27T20:36:33Z",
+            "last_commit": "2026-08-28T21:09:59Z",
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5545
-          }
+            "stars": 5552
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -439,7 +466,8 @@
             "owner": "WangYixuan12",
             "repo": "dyn-res-pile-manip",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -454,7 +482,8 @@
             "owner": "google",
             "repo": "brax",
             "stars": 3225
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -469,7 +498,8 @@
             "owner": "YilingQiao",
             "repo": "diffarticulated",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "erwincoumans",
             "repo": "tiny-differentiable-simulator",
             "stars": 1372
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "YilingQiao",
             "repo": "diffsim",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         }
       ],
       "title": "Rigidbody (38)"
@@ -520,7 +552,8 @@
             "owner": "RoboticExplorationLab",
             "repo": "Aquarium.jl",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         },
         {
           "node_type": "item",
@@ -535,14 +568,15 @@
             "owner": "fish-gym",
             "repo": "gym-fish",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:14:42.573Z"
         }
       ],
       "title": "Multiphys (13)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:44:01.347Z",
+    "last_updated": "2026-08-28T21:14:42.573Z",
     "original_repository_info": {
       "archived": false,
       "id": 818246372,

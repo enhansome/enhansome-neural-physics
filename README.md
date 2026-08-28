@@ -290,7 +290,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **Solving Inverse Physics Problems with Score Matching** | NeurIPS 2023\
   *Holzschuh, Benjamin, Vegetti, Simona, Thuerey, Nils*\
-  [\[Code\]](https://github.com/tum-pbs/SMDP) ⭐ 34 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-04\
+  [\[Code\]](https://github.com/tum-pbs/SMDP) ⭐ 33 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-12-04\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Optimization](https://img.shields.io/badge/-Optimization-457b9d.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,545 | 🐛 411 | 🌐 Python | 📅 2026-08-27\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,552 | 🐛 413 | 🌐 Python | 📅 2026-08-28\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
