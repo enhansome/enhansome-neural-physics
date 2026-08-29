@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository of A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft & DualFluidNet: an Attention-based Dual-pipeline Network for Fluid Simulation. ",
+            "homepage": null,
             "id": 749234352,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-04-30T09:54:31Z",
+            "open_issues": 1,
             "owner": "chenyu-xjtu",
             "repo": "A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the official implementation of AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation",
+            "homepage": null,
             "id": 943082691,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-10T05:17:54Z",
+            "open_issues": 1,
             "owner": "JfanLiu",
             "repo": "AMR_Transformer",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of FlowCapX: Physics-Grounded Flow Capture with Long-Term Consistency.",
+            "homepage": null,
             "id": 1039939318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-27T07:59:24Z",
+            "open_issues": 0,
             "owner": "taoningxiao",
             "repo": "FlowCapX",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 812159403,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-16T02:03:58Z",
+            "open_issues": 0,
             "owner": "cenyc",
             "repo": "Interactive-Fluid-Modeling",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -74,12 +94,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 795864426,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-05-04T09:37:04Z",
+            "open_issues": 0,
             "owner": "Pranav-Jain",
             "repo": "Neural-Monte-Carlo-Fluid-Simulation",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -90,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeuSmoke: Efficient Smoke Reconstruction and View Synthesis with Neural Transportation Fields (SIGGRAPH Asia 2024)",
+            "homepage": null,
             "id": 835473052,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-27T02:38:04Z",
+            "open_issues": 1,
             "owner": "JiaxiongQ",
             "repo": "NeuSmoke",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -106,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2024] Official code for Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction",
+            "homepage": null,
             "id": 793072255,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-27T18:35:19Z",
+            "open_issues": 3,
             "owner": "19reborn",
             "repo": "PICT_smoke",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -122,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICLR'24: Symmetric basis convolutions for learning lagrangian fluid mechanics",
+            "homepage": null,
             "id": 774898299,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-05-19T07:01:33Z",
+            "open_issues": 1,
             "owner": "tum-pbs",
             "repo": "SFBC",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -138,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for paper: Learning Vortex Dynamics for Fluid Inference and Prediction (ICLR 2023)",
+            "homepage": null,
             "id": 615036359,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-01T17:43:24Z",
+            "open_issues": 1,
             "owner": "yitongdeng-projects",
             "repo": "learning_vortex_dynamics_code",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -154,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solving Inverse Physics Problems with Score Matching",
+            "homepage": null,
             "id": 700861630,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-12-04T20:34:02Z",
+            "open_issues": 2,
             "owner": "tum-pbs",
             "repo": "SMDP",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -170,12 +220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics (NeurIPS '22)",
+            "homepage": null,
             "id": 545976467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-07T10:12:42Z",
+            "open_issues": 1,
             "owner": "tum-pbs",
             "repo": "DMCF",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -186,12 +241,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Style Transfer for Fluids",
+            "homepage": "http://www.byungsoo.me/project/lnst/index.html",
             "id": 193880182,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-08-10T08:33:35Z",
+            "open_issues": 3,
             "owner": "byungsook",
             "repo": "neural-flow-style",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "fluid-simulations",
+              "fluid-stylization",
+              "liquid-simulations",
+              "liquid-stylization",
+              "neural-style-transfer",
+              "smoke-simulations",
+              "smoke-stylization"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -202,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the ICLR 2020 paper \"Learning to Control PDEs\"",
+            "homepage": null,
             "id": 233890801,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-22T13:25:58Z",
+            "open_issues": 1,
             "owner": "p-holl",
             "repo": "PDE-Control",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -218,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for \"Deep Dynamical Modeling and Control of Unsteady Fluid Flows\" from NeurIPS 2018",
+            "homepage": null,
             "id": 154720940,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-12-03T21:13:22Z",
+            "open_issues": 0,
             "owner": "sisl",
             "repo": "deep_flow_control",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -234,12 +312,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Accelerating Eulerian Fluid Simulation With Convolutional Networks",
+            "homepage": "http://google.github.io/FluidNet",
             "id": 74393827,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-08T18:37:45Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "FluidNet",
-            "stars": 754
+            "stars": 754,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         }
@@ -256,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our CVPR 2024 paper 'Bayesian Differentiable Physics for Cloth Digitalization'",
+            "homepage": null,
             "id": 763948618,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-20T14:13:42Z",
+            "open_issues": 1,
             "owner": "realcrane",
             "repo": "Bayesian-Differentiable-Physics-for-Cloth-Digitalization",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -272,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel manifold-aware transfomer architecture for predicting garment dynamics on unseen geometries [EUROGRAPHICS 2024]",
+            "homepage": null,
             "id": 776018875,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-08T12:38:15Z",
+            "open_issues": 3,
             "owner": "PeizhuoLi",
             "repo": "manifold-aware-transformers",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -288,12 +381,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of the CVPR 2024 paper \"Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models\"",
+            "homepage": "https://cg.cs.uni-bonn.de/publication/stotko2024-Physics-guided-SfT",
             "id": 721680504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-31T13:42:38Z",
+            "open_issues": 0,
             "owner": "vc-bonn",
             "repo": "Physics-guided-Shape-from-Template",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cloth-simulation",
+              "monocular-images",
+              "physics-informed-neural-networks",
+              "shape-from-template"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -304,12 +407,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains codes for SIGGRAPH Asia 2022 paper \"Learning-Based Bending Stiffness Parameter Estimation by a Drape Tester\".",
+            "homepage": null,
             "id": 536361131,
             "language": "Mathematica",
+            "license": null,
             "last_commit": "2022-09-14T00:57:41Z",
+            "open_issues": 1,
             "owner": "DrapeTester",
             "repo": "ClothDrapeTester",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         }
@@ -326,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 792310716,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-11T10:57:49Z",
+            "open_issues": 0,
             "owner": "lnumerow-ethz",
             "repo": "VoronoiCellSim",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -342,12 +455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 781141388,
             "language": "Python",
+            "license": "MPL-2.0",
             "last_commit": "2024-11-25T22:18:02Z",
+            "open_issues": 0,
             "owner": "hjoonpark",
             "repo": "3d-sim-super-res",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -358,12 +476,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Neural Modes: Self-supervised learning of nonlinear modal subspaces (CVPR 2024)",
+            "homepage": null,
             "id": 813795754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-20T22:32:59Z",
+            "open_issues": 0,
             "owner": "jiahong-w",
             "repo": "neural-modes",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -374,12 +497,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cpp and python code for our SIGGRPAH Asia 2023 paper Neural Metamaterial Network for Nonlinear Material Design",
+            "homepage": null,
             "id": 716102962,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-08T13:45:09Z",
+            "open_issues": 0,
             "owner": "liyuesolo",
             "repo": "NeuralMetamaterialNetwork",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -390,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 378561928,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-09-21T00:49:40Z",
+            "open_issues": 3,
             "owner": "ZhengMianlun",
             "repo": "deep_emulator",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -406,12 +539,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Differentiable Simulation of Soft Multi-body Systems (NeurIPS 2021) ",
+            "homepage": null,
             "id": 418300231,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-20T00:02:26Z",
+            "open_issues": 1,
             "owner": "YilingQiao",
             "repo": "diff_fem",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -422,12 +560,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Differentiable MPM Simulator",
+            "homepage": null,
             "id": 148954984,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-01-07T21:12:53Z",
+            "open_issues": 1,
             "owner": "yuanming-hu",
             "repo": "ChainQueen",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         }
@@ -444,12 +587,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+            "homepage": "https://newton-physics.github.io/newton/stable/",
             "id": 970467647,
             "language": "Python",
-            "last_commit": "2026-08-28T21:09:59Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:13:49Z",
+            "open_issues": 404,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5552
+            "stars": 5552,
+            "topics": [
+              "newton-physics",
+              "nvidia-warp",
+              "physics-simulation",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -460,12 +613,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[RSS 23] Dynamic-Resolution Model Learning for Object Pile Manipulation",
+            "homepage": "https://robopil.github.io/dyn-res-pile-manip/",
             "id": 658552653,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-01-29T05:20:57Z",
+            "open_issues": 0,
             "owner": "WangYixuan12",
             "repo": "dyn-res-pile-manip",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "manipulation",
+              "robotics",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -476,12 +638,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Massively parallel rigidbody physics simulation on accelerator hardware.",
+            "homepage": null,
             "id": 373310764,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T15:04:10Z",
+            "open_issues": 109,
             "owner": "google",
             "repo": "brax",
-            "stars": 3225
+            "stars": 3227,
+            "topics": [
+              "jax",
+              "physics-simulation",
+              "reinforcement-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -492,12 +664,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Differentiable Simulation of Articulated Bodies (ICML2021)",
+            "homepage": null,
             "id": 374723237,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-17T18:30:05Z",
+            "open_issues": 1,
             "owner": "YilingQiao",
             "repo": "diffarticulated",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "graphics",
+              "machine-learning",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -508,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny Differentiable Simulator is a header-only C++ and CUDA physics library for reinforcement learning and robotics with zero dependencies.",
+            "homepage": null,
             "id": 263988855,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-18T23:14:47Z",
+            "open_issues": 12,
             "owner": "erwincoumans",
             "repo": "tiny-differentiable-simulator",
-            "stars": 1372
+            "stars": 1372,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -524,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable Differentiable Physics for Learning and Control (ICML2020) ",
+            "homepage": null,
             "id": 268940300,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-25T10:57:40Z",
+            "open_issues": 3,
             "owner": "YilingQiao",
             "repo": "diffsim",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         }
@@ -546,12 +737,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A differentiable fluid-structure interaction (FSI) solver for robotics applications.",
+            "homepage": null,
             "id": 624904318,
             "language": "Julia",
+            "license": "MIT",
             "last_commit": "2026-08-14T22:39:45Z",
+            "open_issues": 4,
             "owner": "RoboticExplorationLab",
             "repo": "Aquarium.jl",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         },
@@ -562,12 +758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 464858081,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-16T09:05:55Z",
+            "open_issues": 4,
             "owner": "fish-gym",
             "repo": "gym-fish",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
         }
@@ -576,15 +777,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:14:42.573Z",
+    "last_updated": "2026-08-29T05:01:46.508Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": "https://awesome-physics.github.io/awesome-neural-physics/",
       "id": 818246372,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2026-04-06T08:36:16Z",
+      "open_issues": 0,
       "owner": "awesome-physics",
       "repo": "awesome-neural-physics",
-      "stars": 66
+      "stars": 66,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-graphics",
+        "physical-ai",
+        "physics-simulation",
+        "research"
+      ]
     },
     "original_repository_sha": "074c90c3de7dd24c09f18b6ccf80b57c3d84949a",
     "enhanced_repository": "enhansome/enhansome-neural-physics",
