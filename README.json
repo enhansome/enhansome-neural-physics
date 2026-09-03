@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "JfanLiu",
             "repo": "AMR_Transformer",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T14:36:55Z",
-            "open_issues": 404,
+            "last_commit": "2026-09-03T12:37:39Z",
+            "open_issues": 402,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5576,
+            "stars": 5580,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 109,
             "owner": "google",
             "repo": "brax",
-            "stars": 3227,
+            "stars": 3228,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:40:30.858Z",
+    "last_updated": "2026-09-03T14:42:58.727Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

@@ -38,7 +38,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation** | CVPR 2025\
   *Zeyi Xu, Jinfan Liu, Kuangxu Chen, Ye Chen, et al.*\
-  [\[DOI\]](https://doi.org/10.1109/cvpr52734.2025.00545) [\[Code\]](https://github.com/JfanLiu/AMR_Transformer) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-06-10\
+  [\[DOI\]](https://doi.org/10.1109/cvpr52734.2025.00545) [\[Code\]](https://github.com/JfanLiu/AMR_Transformer) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-06-10\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Transformer](https://img.shields.io/badge/-Transformer-bc6c25.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,576 | 🐛 404 | 🌐 Python | 📅 2026-09-02\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,580 | 🐛 402 | 🌐 Python | 📅 2026-09-03\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,227 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,228 | 🐛 109 | 🌐 Jupyter Notebook | 📅 2026-08-06\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
