@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "tum-pbs",
             "repo": "DMCF",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T12:52:33Z",
-            "open_issues": 406,
+            "last_commit": "2026-09-04T23:35:29Z",
+            "open_issues": 405,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5586,
+            "stars": 5589,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 109,
             "owner": "google",
             "repo": "brax",
-            "stars": 3229,
+            "stars": 3230,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:31:28.821Z",
+    "last_updated": "2026-09-05T13:31:32.646Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
