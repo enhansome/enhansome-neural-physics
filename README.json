@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:56:08Z",
-            "open_issues": 407,
+            "last_commit": "2026-09-08T11:28:57Z",
+            "open_issues": 413,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5598,
+            "stars": 5600,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -622,7 +622,7 @@
             "open_issues": 0,
             "owner": "WangYixuan12",
             "repo": "dyn-res-pile-manip",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "manipulation",
               "robotics",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:01:56.194Z",
+    "last_updated": "2026-09-08T14:45:15.222Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
