@@ -593,10 +593,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T14:16:39Z",
-            "open_issues": 442,
+            "open_issues": 444,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5650,
+            "stars": 5652,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:37:29.513Z",
+    "last_updated": "2026-09-19T13:58:36.867Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
