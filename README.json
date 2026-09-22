@@ -103,7 +103,7 @@
             "open_issues": 0,
             "owner": "Pranav-Jain",
             "repo": "Neural-Monte-Carlo-Fluid-Simulation",
-            "stars": 48,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T16:30:26Z",
-            "open_issues": 441,
+            "last_commit": "2026-09-22T15:04:35Z",
+            "open_issues": 439,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5668,
+            "stars": 5674,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 110,
             "owner": "google",
             "repo": "brax",
-            "stars": 3237,
+            "stars": 3238,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:34:35.380Z",
+    "last_updated": "2026-09-22T15:09:05.116Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

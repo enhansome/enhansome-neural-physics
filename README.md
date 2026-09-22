@@ -136,7 +136,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **Neural Monte Carlo Fluid Simulation** | Siggraph 2024\
   *Pranav Jain, Ziyin Qu, Peter Yichen Chen, Oded Stein*\
-  [\[DOI\]](https://doi.org/10.1145/3641519.3657438) [\[Code\]](https://github.com/Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation) ⭐ 48 | 🐛 0 | 🌐 C++ | 📅 2024-05-04\
+  [\[DOI\]](https://doi.org/10.1145/3641519.3657438) [\[Code\]](https://github.com/Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation) ⭐ 47 | 🐛 0 | 🌐 C++ | 📅 2024-05-04\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Representation](https://img.shields.io/badge/-Neural%20Representation-4c78a8.svg?style=flat-square) ![Neural Field](https://img.shields.io/badge/-Neural%20Field-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,668 | 🐛 441 | 🌐 Python | 📅 2026-09-21\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,674 | 🐛 439 | 🌐 Python | 📅 2026-09-22\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,237 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2026-09-15\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,238 | 🐛 110 | 🌐 Jupyter Notebook | 📅 2026-09-15\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
