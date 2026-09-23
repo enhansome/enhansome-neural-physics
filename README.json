@@ -321,7 +321,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "FluidNet",
-            "stars": 754,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T15:04:35Z",
-            "open_issues": 439,
+            "last_commit": "2026-09-23T13:14:32Z",
+            "open_issues": 443,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5674,
+            "stars": 5680,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 110,
             "owner": "google",
             "repo": "brax",
-            "stars": 3238,
+            "stars": 3240,
             "topics": [
               "jax",
               "physics-simulation",
@@ -719,7 +719,7 @@
             "open_issues": 3,
             "owner": "YilingQiao",
             "repo": "diffsim",
-            "stars": 188,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:09:05.116Z",
+    "last_updated": "2026-09-23T15:10:37.945Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
