@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "A Pioneering Neural Network Method for Efficient and Robust Fuel Sloshing Simulation in Aircraft | AAAI 2025Chen Yu, Shuai Zheng, Nianyi Wang, Menglong Jin, et al.[DOI]",
-          "description": "[Code]",
+          "description": "chenyu-xjtu/A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "AMR-Transformer: Enabling Efficient Long-range Interaction for Complex Neural Fluid Simulation | CVPR 2025Zeyi Xu, Jinfan Liu, Kuangxu Chen, Ye Chen, et al.[DOI]",
-          "description": "[Code]",
+          "description": "JfanLiu/AMR_Transformer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "FlowCapX: Physics-Grounded Flow Capture with Long-Term Consistency | CGF 2025N. Tao, L. Zhang, Xingyu Ni, Mengyu Chu, et al.[DOI]",
-          "description": "[Code]",
+          "description": "taoningxiao/FlowCapX",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "A Real-Time and Interactive Fluid Modeling System for Mixed Reality | TVCG 2024Yunchi Cen, Hanchen Deng, Yue Ma, Xiaohui Liang[DOI]",
-          "description": "[Code]",
+          "description": "cenyc/Interactive-Fluid-Modeling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "Neural Monte Carlo Fluid Simulation | Siggraph 2024Pranav Jain, Ziyin Qu, Peter Yichen Chen, Oded Stein[DOI]",
-          "description": "[Code]",
+          "description": "Pranav-Jain/Neural-Monte-Carlo-Fluid-Simulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "NeuSmoke: Efficient Smoke Reconstruction and View Synthesis with Neural Transportation Fields | Siggraph Asia 2024Jiaxiong Qiu, Ruihong Cen, Zhong Li, Han Yan, et al.[DOI]",
-          "description": "[Code]",
+          "description": "JiaxiongQ/NeuSmoke",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "Physics-Informed Learning of Characteristic Trajectories for Smoke Reconstruction | Siggraph 2024Yiming Wang, Siyu Tang, Mengyu Chu[DOI]",
-          "description": "[Code]",
+          "description": "19reborn/PICT_smoke",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -153,7 +153,7 @@
         {
           "node_type": "item",
           "title": "Symmetric Basis Convolutions for Learning Lagrangian Fluid Mechanics | ICLR 2024Rene Winchenbach, Nils Thuerey[Code]",
-          "description": null,
+          "description": "tum-pbs/SFBC",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
         {
           "node_type": "item",
           "title": "Learning Vortex Dynamics for Fluid Inference and Prediction | ICLR 2023Yitong Deng, Hong-Xing Yu, Jiajun Wu, Bo Zhu[Code]",
-          "description": null,
+          "description": "yitongdeng-projects/learning_vortex_dynamics_code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
         {
           "node_type": "item",
           "title": "Solving Inverse Physics Problems with Score Matching | NeurIPS 2023Holzschuh, Benjamin, Vegetti, Simona, Thuerey, Nils[Code]",
-          "description": null,
+          "description": "tum-pbs/SMDP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "Guaranteed conservation of momentum for learning particle-based fluid dynamics | NeurIPS 2022Prantl, Lukas, Ummenhofer, Benjamin, Koltun, Vladlen, Thuerey, Nils[Code]",
-          "description": null,
+          "description": "tum-pbs/DMCF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -229,7 +229,7 @@
             "open_issues": 1,
             "owner": "tum-pbs",
             "repo": "DMCF",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -287,7 +287,7 @@
         {
           "node_type": "item",
           "title": "Deep dynamical modeling and control of unsteady fluid flows | NeurIPS 2018Morton, Jeremy, Jameson, Antony, Kochenderfer, Mykel J, Witherden, Freddie[Code]",
-          "description": null,
+          "description": "sisl/deep_flow_control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -308,7 +308,7 @@
         {
           "node_type": "item",
           "title": "Accelerating eulerian fluid simulation with convolutional networks | ICML 2017Tompson, Jonathan, Schlachter, Kristofer, Sprechmann, Pablo, Perlin, Ken[Code]",
-          "description": null,
+          "description": "google/FluidNet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -335,7 +335,7 @@
         {
           "node_type": "item",
           "title": "Bayesian Differentiable Physics for Cloth Digitalization | CVPR 2024Deshan Gong, Ningtao Mao, He Wang[Code]",
-          "description": null,
+          "description": "realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "Neural Garment Dynamics via Manifold-Aware Transformers | CGF 2024Peizhuo Li, Tuanfeng Y. Wang, Timur Levent Kesdogan, Duygu Ceylan, et al.[DOI]",
-          "description": "[Code]",
+          "description": "PeizhuoLi/manifold-aware-transformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -377,7 +377,7 @@
         {
           "node_type": "item",
           "title": "Physics-guided Shape-from-Template: Monocular Video Perception through Neural Surrogate Models | CVPR 2024David Stotko, Nils Wandel, Reinhard Klein[DOI]",
-          "description": "[Code]",
+          "description": "vc-bonn/Physics-guided-Shape-from-Template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -403,7 +403,7 @@
         {
           "node_type": "item",
           "title": "Learning-based bending stiffness parameter estimation by a drape tester | TOG 2022Feng, Xudong, Huang, Wenchao, Xu, Weiwei, Wang, Huamin[Code]",
-          "description": null,
+          "description": "DrapeTester/ClothDrapeTester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -430,7 +430,7 @@
         {
           "node_type": "item",
           "title": "Differentiable Voronoi Diagrams for Simulation of Cell-Based Mechanical Systems | TOG 2024Numerow, Logan, Li, Yue, Coros, Stelian, Thomaszewski, Bernhard[Code]",
-          "description": null,
+          "description": "lnumerow-ethz/VoronoiCellSim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -451,7 +451,7 @@
         {
           "node_type": "item",
           "title": "Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution | TOG 2024Hyojoon Park, Sangeetha Grama Srinivasan, Matthew Cong, Doyub Kim, et al.[DOI]",
-          "description": "[Code]",
+          "description": "hjoonpark/3d-sim-super-res",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "Neural Modes: Self-supervised Learning of Nonlinear Modal Subspaces | CVPR 2024Jiahong Wang, Yinwei Du, Stelian Coros, Bernhard Thomaszewski[DOI]",
-          "description": "[Code]",
+          "description": "jiahong-w/neural-modes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +514,7 @@
         {
           "node_type": "item",
           "title": "A Deep Emulator for Secondary Motion of 3D Characters | CVPR 2021Mianlun Zheng, Yi Zhou, Duygu Ceylan, Jernej Barbič[DOI]",
-          "description": "[Code]",
+          "description": "ZhengMianlun/deep_emulator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "Differentiable simulation of soft multi-body systems | NeurIPS 2021Qiao, Yiling, Liang, Junbang, Koltun, Vladlen, Lin, Ming[Code]",
-          "description": null,
+          "description": "YilingQiao/diff_fem",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp | 2025newton-physics contributors[Code]",
-          "description": null,
+          "description": "newton-physics/newton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -592,8 +592,8 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:03:49Z",
-            "open_issues": 497,
+            "last_commit": "2026-10-02T22:31:10Z",
+            "open_issues": 525,
             "owner": "newton-physics",
             "repo": "newton",
             "stars": 5710,
@@ -609,7 +609,7 @@
         {
           "node_type": "item",
           "title": "Dynamic-Resolution Model Learning for Object Pile Manipulation | RSS 2023Yixuan Wang, Yunzhu Li, Katherine Driggs-Campbell, Li Fei-Fei, et al.[DOI]",
-          "description": "[Code]",
+          "description": "WangYixuan12/dyn-res-pile-manip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -634,7 +634,7 @@
         {
           "node_type": "item",
           "title": "Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation | NeurIPS 2021C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.[Code]",
-          "description": null,
+          "description": "google/brax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -660,7 +660,7 @@
         {
           "node_type": "item",
           "title": "Efficient Differentiable Simulation of Articulated Bodies | ICML 2021Qiao, Yi-Ling, Liang, Junbang, Koltun, Vladlen, Lin, Ming C.[Code]",
-          "description": null,
+          "description": "YilingQiao/diffarticulated",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -685,7 +685,7 @@
         {
           "node_type": "item",
           "title": "NeuralSim: Augmenting Differentiable Simulators with Neural Networks | ICRA 2021Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.[Code]",
-          "description": null,
+          "description": "erwincoumans/tiny-differentiable-simulator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -706,7 +706,7 @@
         {
           "node_type": "item",
           "title": "Scalable Differentiable Physics for Learning and Control | ICML 2020Qiao, Yi-Ling, Liang, Junbang, Koltun, Vladlen, Lin, Ming C.[Code]",
-          "description": null,
+          "description": "YilingQiao/diffsim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -733,7 +733,7 @@
         {
           "node_type": "item",
           "title": "Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications | ICRA 2023Jeong Hun Lee, Mike Y. Michelis, Robert K. Katzschmann, Zachary Manchester[DOI]",
-          "description": "[Code]",
+          "description": "RoboticExplorationLab/Aquarium.jl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -754,7 +754,7 @@
         {
           "node_type": "item",
           "title": "FishGym: A High-Performance Physics-based Simulation Framework for Underwater Robot Learning | ICRA 2022Wenji Liu, Kai Bai, Xuming He, Shuran Song, et al.[DOI]",
-          "description": "[Code]",
+          "description": "fish-gym/gym-fish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:21:46.833Z",
+    "last_updated": "2026-10-03T04:57:48.080Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
