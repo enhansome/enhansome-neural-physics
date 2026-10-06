@@ -592,8 +592,8 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:55:48Z",
-            "open_issues": 520,
+            "last_commit": "2026-10-06T16:45:31Z",
+            "open_issues": 518,
             "owner": "newton-physics",
             "repo": "newton",
             "stars": 5724,
@@ -647,7 +647,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "brax",
-            "stars": 3247,
+            "stars": 3248,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:03.287Z",
+    "last_updated": "2026-10-06T16:54:58.859Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
