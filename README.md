@@ -472,7 +472,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **Learning to Control PDEs with Differentiable Physics** | ICLR 2020\
   *Philipp Holl, Vladlen Koltun, Nils Thuerey*\
-  [\[Paper\]](http://arxiv.org/abs/2001.07457) [\[Code\]](https://github.com/p-holl/PDE-Control) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2020-04-22 [\[DOI\]](https://doi.org/10.48550/arxiv.2001.07457)\
+  [\[Paper\]](http://arxiv.org/abs/2001.07457) [\[Code\]](https://github.com/p-holl/PDE-Control) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2020-04-22 [\[DOI\]](https://doi.org/10.48550/arxiv.2001.07457)\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square) ![Fluid Control](https://img.shields.io/badge/-Fluid%20Control-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,742 | 🐛 487 | 🌐 Python | 📅 2026-10-09\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,748 | 🐛 488 | 🌐 Python | 📅 2026-10-09\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1591,7 +1591,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **NeuralSim: Augmenting Differentiable Simulators with Neural Networks** | ICRA 2021\
   *Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.*\
-  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,375 | 🐛 12 | 🌐 C++ | 📅 2026-10-08\
+  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,376 | 🐛 12 | 🌐 C++ | 📅 2026-10-08\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
