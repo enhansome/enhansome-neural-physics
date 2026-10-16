@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T15:00:55Z",
-            "open_issues": 459,
+            "last_commit": "2026-10-16T14:28:35Z",
+            "open_issues": 444,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5783,
+            "stars": 5792,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -619,7 +619,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2024-01-29T05:20:57Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "WangYixuan12",
             "repo": "dyn-res-pile-manip",
             "stars": 37,
@@ -647,7 +647,7 @@
             "open_issues": 113,
             "owner": "google",
             "repo": "brax",
-            "stars": 3248,
+            "stars": 3249,
             "topics": [
               "jax",
               "physics-simulation",
@@ -746,7 +746,7 @@
             "open_issues": 4,
             "owner": "RoboticExplorationLab",
             "repo": "Aquarium.jl",
-            "stars": 29,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:18:43.773Z",
+    "last_updated": "2026-10-16T14:59:01.235Z",
     "original_repository_info": {
       "archived": false,
       "description": null,

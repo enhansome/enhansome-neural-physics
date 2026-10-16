@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,783 | 🐛 459 | 🌐 Python | 📅 2026-10-15\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,792 | 🐛 444 | 🌐 Python | 📅 2026-10-16\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1479,7 +1479,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Dynamic-Resolution Model Learning for Object Pile Manipulation** | RSS 2023\
   *Yixuan Wang, Yunzhu Li, Katherine Driggs-Campbell, Li Fei-Fei, et al.*\
-  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 37 | 🐛 0 | 🌐 C++ | 📅 2024-01-29\
+  [\[DOI\]](https://doi.org/10.15607/rss.2023.xix.047) [\[Code\]](https://github.com/WangYixuan12/dyn-res-pile-manip) ⭐ 37 | 🐛 1 | 🌐 C++ | 📅 2024-01-29\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Robot Control](https://img.shields.io/badge/-Robot%20Control-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,248 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-10-07\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,249 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2026-10-07\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1698,7 +1698,7 @@ Papers that span multiple physical domains or focus on coupled systems and gener
 
 * **Aquarium: A Fully Differentiable Fluid-Structure Interaction Solver for Robotics Applications** | ICRA 2023\
   *Jeong Hun Lee, Mike Y. Michelis, Robert K. Katzschmann, Zachary Manchester*\
-  [\[DOI\]](https://doi.org/10.1109/icra48891.2023.10161494) [\[Code\]](https://github.com/RoboticExplorationLab/Aquarium.jl) ⭐ 29 | 🐛 4 | 🌐 Julia | 📅 2026-09-15\
+  [\[DOI\]](https://doi.org/10.1109/icra48891.2023.10161494) [\[Code\]](https://github.com/RoboticExplorationLab/Aquarium.jl) ⭐ 30 | 🐛 4 | 🌐 Julia | 📅 2026-09-15\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Underwater Robot](https://img.shields.io/badge/-Underwater%20Robot-ff7f0e.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
