@@ -548,7 +548,7 @@
             "open_issues": 1,
             "owner": "YilingQiao",
             "repo": "diff_fem",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T14:28:35Z",
-            "open_issues": 444,
+            "last_commit": "2026-10-17T06:39:24Z",
+            "open_issues": 446,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5792,
+            "stars": 5798,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -694,7 +694,7 @@
             "id": 263988855,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T01:30:41Z",
+            "last_commit": "2026-10-16T22:00:33Z",
             "open_issues": 12,
             "owner": "erwincoumans",
             "repo": "tiny-differentiable-simulator",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:59:01.235Z",
+    "last_updated": "2026-10-17T13:53:47.717Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
