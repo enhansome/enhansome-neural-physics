@@ -31,7 +31,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **A Pioneering Neural Network Method for Efficient and Robust Fuel Sloshing Simulation in Aircraft** | AAAI 2025\
   *Chen Yu, Shuai Zheng, Nianyi Wang, Menglong Jin, et al.*\
-  [\[DOI\]](https://doi.org/10.1609/aaai.v39i15.33752) [\[Code\]](https://github.com/chenyu-xjtu/A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-04-30\
+  [\[DOI\]](https://doi.org/10.1609/aaai.v39i15.33752) [\[Code\]](https://github.com/chenyu-xjtu/A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-04-30\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,818 | 🐛 452 | 🌐 Python | 📅 2026-10-21\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,825 | 🐛 441 | 🌐 Python | 📅 2026-10-22\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1591,7 +1591,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **NeuralSim: Augmenting Differentiable Simulators with Neural Networks** | ICRA 2021\
   *Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.*\
-  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,375 | 🐛 12 | 🌐 C++ | 📅 2026-10-20\
+  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,376 | 🐛 12 | 🌐 C++ | 📅 2026-10-21\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
