@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T11:26:01Z",
-            "open_issues": 450,
+            "last_commit": "2026-10-24T02:31:45Z",
+            "open_issues": 447,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5827,
+            "stars": 5828,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -618,7 +618,7 @@
             "id": 658552653,
             "language": "C++",
             "license": null,
-            "last_commit": "2024-01-29T05:20:57Z",
+            "last_commit": "2026-10-24T07:23:32Z",
             "open_issues": 1,
             "owner": "WangYixuan12",
             "repo": "dyn-res-pile-manip",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:25:39.177Z",
+    "last_updated": "2026-10-24T14:06:15.740Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
