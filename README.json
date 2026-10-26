@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T02:31:45Z",
-            "open_issues": 450,
+            "last_commit": "2026-10-26T16:27:49Z",
+            "open_issues": 437,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5833,
+            "stars": 5841,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -644,10 +644,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T10:36:12Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "google",
             "repo": "brax",
-            "stars": 3253,
+            "stars": 3252,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:32:47.298Z",
+    "last_updated": "2026-10-26T16:57:27.104Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
