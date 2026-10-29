@@ -31,7 +31,7 @@ Neural physics papers on fluid simulation, reconstruction, control, and differen
 
 * **A Pioneering Neural Network Method for Efficient and Robust Fuel Sloshing Simulation in Aircraft** | AAAI 2025\
   *Chen Yu, Shuai Zheng, Nianyi Wang, Menglong Jin, et al.*\
-  [\[DOI\]](https://doi.org/10.1609/aaai.v39i15.33752) [\[Code\]](https://github.com/chenyu-xjtu/A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-04-30\
+  [\[DOI\]](https://doi.org/10.1609/aaai.v39i15.33752) [\[Code\]](https://github.com/chenyu-xjtu/A-Pioneering-Neural-Network-Method-for-Efficient-and-Robust-Fuel-Sloshing-Simulation-in-Aircraft) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2025-04-30\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,856 | 🐛 426 | 🌐 Python | 📅 2026-10-28\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,865 | 🐛 426 | 🌐 Python | 📅 2026-10-29\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,252 | 🐛 116 | 🌐 Jupyter Notebook | 📅 2026-10-20\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,252 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
