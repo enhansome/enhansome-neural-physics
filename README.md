@@ -628,7 +628,7 @@ Papers on cloth, garments, and apparel-related dynamics, reconstruction, and ava
 
 * **Bayesian Differentiable Physics for Cloth Digitalization** | CVPR 2024\
   *Deshan Gong, Ningtao Mao, He Wang*\
-  [\[Code\]](https://github.com/realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization) ⭐ 13 | 🐛 1 | 🌐 C++ | 📅 2024-07-20\
+  [\[Code\]](https://github.com/realcrane/Bayesian-Differentiable-Physics-for-Cloth-Digitalization) ⭐ 14 | 🐛 1 | 🌐 C++ | 📅 2024-07-20\
   ![Reconstruction](https://img.shields.io/badge/-Reconstruction-3a86b8.svg?style=flat-square) ![Real2Sim](https://img.shields.io/badge/-Real2Sim-e76f51.svg?style=flat-square) ![Cloth Reconstruction](https://img.shields.io/badge/-Cloth%20Reconstruction-6d597a.svg?style=flat-square) ![Parameter Estimation](https://img.shields.io/badge/-Parameter%20Estimation-6d597a.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,873 | 🐛 427 | 🌐 Python | 📅 2026-10-31\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,875 | 🐛 432 | 🌐 Python | 📅 2026-11-01\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,252 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,253 | 🐛 117 | 🌐 Jupyter Notebook | 📅 2026-10-20\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

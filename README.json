@@ -348,7 +348,7 @@
             "open_issues": 1,
             "owner": "realcrane",
             "repo": "Bayesian-Differentiable-Physics-for-Cloth-Digitalization",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:02:49Z",
-            "open_issues": 427,
+            "last_commit": "2026-11-01T04:39:56Z",
+            "open_issues": 432,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5873,
+            "stars": 5875,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 117,
             "owner": "google",
             "repo": "brax",
-            "stars": 3252,
+            "stars": 3253,
             "topics": [
               "jax",
               "physics-simulation",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:51:04.145Z",
+    "last_updated": "2026-11-01T16:54:11.969Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
