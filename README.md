@@ -1281,7 +1281,7 @@ Work on deformable objects, elasticity, fracture, soft robots, and learned physi
 
 * **A Deep Emulator for Secondary Motion of 3D Characters** | CVPR 2021\
   *Mianlun Zheng, Yi Zhou, Duygu Ceylan, Jernej Barbič*\
-  [\[DOI\]](https://doi.org/10.1109/cvpr46437.2021.00587) [\[Code\]](https://github.com/ZhengMianlun/deep_emulator) ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2021-09-21\
+  [\[DOI\]](https://doi.org/10.1109/cvpr46437.2021.00587) [\[Code\]](https://github.com/ZhengMianlun/deep_emulator) ⭐ 25 | 🐛 3 | 🌐 Python | 📅 2021-09-21\
   ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square) ![Avatar](https://img.shields.io/badge/-Avatar-4c78a8.svg?style=flat-square)
 
 <br>
@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,887 | 🐛 442 | 🌐 Python | 📅 2026-11-03\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,886 | 🐛 459 | 🌐 Python | 📅 2026-11-04\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

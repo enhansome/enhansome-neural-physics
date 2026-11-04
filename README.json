@@ -527,7 +527,7 @@
             "open_issues": 3,
             "owner": "ZhengMianlun",
             "repo": "deep_emulator",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:40:07Z",
-            "open_issues": 442,
+            "last_commit": "2026-11-04T18:02:31Z",
+            "open_issues": 459,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5887,
+            "stars": 5886,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:00:13.119Z",
+    "last_updated": "2026-11-04T18:12:55.689Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
