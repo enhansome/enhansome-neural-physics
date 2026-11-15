@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T23:08:25Z",
-            "open_issues": 503,
+            "last_commit": "2026-11-15T11:20:59Z",
+            "open_issues": 506,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5955,
+            "stars": 5957,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -644,7 +644,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T10:36:12Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "google",
             "repo": "brax",
             "stars": 3263,
@@ -694,7 +694,7 @@
             "id": 263988855,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T02:04:20Z",
+            "last_commit": "2026-11-15T05:16:11Z",
             "open_issues": 12,
             "owner": "erwincoumans",
             "repo": "tiny-differentiable-simulator",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:42:29.655Z",
+    "last_updated": "2026-11-15T17:22:39.353Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
