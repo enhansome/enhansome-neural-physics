@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-21T19:59:23Z",
-            "open_issues": 507,
+            "last_commit": "2026-11-23T21:20:33Z",
+            "open_issues": 509,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 5979,
+            "stars": 5984,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -647,7 +647,7 @@
             "open_issues": 118,
             "owner": "google",
             "repo": "brax",
-            "stars": 3266,
+            "stars": 3267,
             "topics": [
               "jax",
               "physics-simulation",
@@ -767,7 +767,7 @@
             "open_issues": 4,
             "owner": "fish-gym",
             "repo": "gym-fish",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:00:25.403Z",
+    "last_updated": "2026-11-23T22:12:13.005Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -789,7 +789,7 @@
       "open_issues": 0,
       "owner": "awesome-physics",
       "repo": "awesome-neural-physics",
-      "stars": 70,
+      "stars": 71,
       "topics": [
         "awesome",
         "awesome-list",

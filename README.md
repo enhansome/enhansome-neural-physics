@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,979 | 🐛 507 | 🌐 Python | 📅 2026-11-21\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,984 | 🐛 509 | 🌐 Python | 📅 2026-11-23\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,266 | 🐛 118 | 🌐 Jupyter Notebook | 📅 2026-10-20\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,267 | 🐛 118 | 🌐 Jupyter Notebook | 📅 2026-10-20\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1726,7 +1726,7 @@ Papers that span multiple physical domains or focus on coupled systems and gener
 
 * **FishGym: A High-Performance Physics-based Simulation Framework for Underwater Robot Learning** | ICRA 2022\
   *Wenji Liu, Kai Bai, Xuming He, Shuran Song, et al.*\
-  [\[DOI\]](https://doi.org/10.1109/ICRA46639.2022.9812066) [\[Code\]](https://github.com/fish-gym/gym-fish) ⭐ 56 | 🐛 4 | 📅 2026-03-16\
+  [\[DOI\]](https://doi.org/10.1109/ICRA46639.2022.9812066) [\[Code\]](https://github.com/fish-gym/gym-fish) ⭐ 57 | 🐛 4 | 📅 2026-03-16\
   ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square) ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Underwater Robot](https://img.shields.io/badge/-Underwater%20Robot-ff7f0e.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
