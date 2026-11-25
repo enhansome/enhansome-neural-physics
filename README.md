@@ -1409,7 +1409,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Newton: An Open-Source, GPU-Accelerated Physics Simulation Engine Built upon NVIDIA Warp** | 2025\
   *newton-physics contributors*\
-  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,987 | 🐛 508 | 🌐 Python | 📅 2026-11-24\
+  [\[Code\]](https://github.com/newton-physics/newton) ⭐ 5,993 | 🐛 520 | 🌐 Python | 📅 2026-11-25\
   ![Embodied AI](https://img.shields.io/badge/-Embodied%20AI-1f77b4.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square)
 
 <br>
@@ -1570,7 +1570,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Brax - A Differentiable Physics Engine for Large Scale Rigid Body Simulation** | NeurIPS 2021\
   *C. Daniel Freeman, Erik Frey, Anton Raichuk, Sertan Girgin, et al.*\
-  [\[Code\]](https://github.com/google/brax) ⭐ 3,267 | 🐛 118 | 🌐 Jupyter Notebook | 📅 2026-10-20\
+  [\[Code\]](https://github.com/google/brax) ⭐ 3,268 | 🐛 118 | 🌐 Jupyter Notebook | 📅 2026-10-20\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Engine](https://img.shields.io/badge/-Engine-1f77b4.svg?style=flat-square) ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-8ab17d.svg?style=flat-square)
 
 <br>
@@ -1591,7 +1591,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **NeuralSim: Augmenting Differentiable Simulators with Neural Networks** | ICRA 2021\
   *Heiden, Eric, Millard, David, Coumans, Erwin, Sheng, Yizhou, et al.*\
-  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,383 | 🐛 12 | 🌐 C++ | 📅 2026-11-23\
+  [\[Code\]](https://github.com/erwincoumans/tiny-differentiable-simulator) ⭐ 1,384 | 🐛 12 | 🌐 C++ | 📅 2026-11-23\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Neural Solver](https://img.shields.io/badge/-Neural%20Solver-457b9d.svg?style=flat-square)
 
 <br>
@@ -1633,7 +1633,7 @@ Methods for articulated rigid bodies, robotics, contact-rich motion, and rigid o
 
 * **Scalable Differentiable Physics for Learning and Control** | ICML 2020\
   *Qiao, Yi-Ling, Liang, Junbang, Koltun, Vladlen, Lin, Ming C.*\
-  [\[Code\]](https://github.com/YilingQiao/diffsim) ⭐ 189 | 🐛 3 | 🌐 C++ | 📅 2024-07-25\
+  [\[Code\]](https://github.com/YilingQiao/diffsim) ⭐ 190 | 🐛 3 | 🌐 C++ | 📅 2024-07-25\
   ![Differentiable Simulation](https://img.shields.io/badge/-Differentiable%20Simulation-3a86b8.svg?style=flat-square) ![Control](https://img.shields.io/badge/-Control-2f6db3.svg?style=flat-square)
 
 <br>
@@ -1804,4 +1804,4 @@ If you find this repository helpful, please consider citing it!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
