@@ -592,11 +592,11 @@
             "id": 970467647,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T19:36:47Z",
-            "open_issues": 513,
+            "last_commit": "2026-11-27T19:26:15Z",
+            "open_issues": 500,
             "owner": "newton-physics",
             "repo": "newton",
-            "stars": 6004,
+            "stars": 6007,
             "topics": [
               "newton-physics",
               "nvidia-warp",
@@ -746,7 +746,7 @@
             "open_issues": 4,
             "owner": "RoboticExplorationLab",
             "repo": "Aquarium.jl",
-            "stars": 30,
+            "stars": 29,
             "topics": []
           },
           "first_seen": "2026-08-28T21:14:42.573Z"
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:47:42.116Z",
+    "last_updated": "2026-11-27T19:37:39.397Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
